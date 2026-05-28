@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"C:/Users/johns/OneDrive/Documents/GitHub/WAVIVI\")",
+      "Read(//c/Users/johns/OneDrive/Documents/GitHub/WAVIVI/**)"
+    ]
+  }
+}
